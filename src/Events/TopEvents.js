@@ -11,7 +11,7 @@ const TopEvents = () => {
 		
 	}
 	return(
-		<a href="/" onClick={()=>handleFooter("Back To Home")}>Back To Home</a>
+		<a href="./index.html" onClick={()=>handleFooter("Back To Home")}>Back To Home</a>
 		);
 
 }
